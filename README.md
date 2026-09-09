@@ -1,33 +1,26 @@
-# 🏐 Volei Wave
+# Volei Wave
 
-Landing page moderna desenvolvida para a marca Volei Wave Academy.
+Landing page responsiva criada para a marca Volei Wave Academy, com foco em divulgação de conteúdo esportivo e direcionamento para as redes sociais.
 
-## 🚀 Tecnologias utilizadas
+## Projeto online
+
+https://yagho733.github.io/Volei-Wave/
+
+## Funcionalidades
+
+- Landing page responsiva
+- Seções de apresentação da marca
+- Integração com Instagram
+- Integração com TikTok
+- Contato via WhatsApp
+- Experiência adaptada para celular
+
+## Tecnologias
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 💻 Sobre o projeto
+## Objetivo
 
-O projeto foi desenvolvido com foco em responsividade, design moderno e divulgação de conteúdos relacionados ao vôlei.
-
-O site possui:
-
-- Página inicial moderna
-- Integração com Instagram
-- Integração com TikTok
-- Botão de contato via WhatsApp
-- Layout responsivo para mobile
-
-## 🌐 Projeto online
-
-https://yagho733.github.io/Volei-Wave/
-
-## 📸 Preview
-
-Adicione aqui uma imagem do projeto.
-
-## 👨‍💻 Desenvolvido por
-
-Yagho Rosa
+Projeto desenvolvido como exercício de front-end e identidade digital para uma marca de conteúdo voltada ao vôlei.
